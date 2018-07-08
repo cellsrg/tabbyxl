@@ -1,3 +1,6 @@
+# DEPRECATED
+This is no longer supported, please consider using [TabbyXL2](https://github.com/cellsrg/tabbyxl2) instead.
+
 # TabbyXL
 A system for rule-based transformation spreadsheet data from arbitrary to relational tables.
 
